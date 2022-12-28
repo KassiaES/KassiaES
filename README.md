@@ -1,10 +1,3 @@
-<div align="center">
-  
-### _Hello World! I'm passionate about learning_
-
- ![imagemgit](https://i.pinimg.com/originals/04/aa/7d/04aa7d717d5e0bc54fbab905327cac41.gif) 
-</div>
-
 ###  👋 Hi, I’m @KassiaES  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -12,8 +5,15 @@
 - 👩‍💻 I’m looking to collaborate on ...
 
 
+<div align="center">
+  
+ ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif)   
+  ### _Hello World! I'm passionate about learning_
+</div>
 
 <div align="center">
+  <br>
+  <br>
   <a href="https://github.com/KassiaES">
  
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KassiaES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
