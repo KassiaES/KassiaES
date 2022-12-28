@@ -1,5 +1,5 @@
-###  👋 Hi, I’m @KassiaES  
-#### _Hello World! I'm passionate about learning_
+###  👋 Hi, I’m @KassiaES!  
+#### _Hello World! I'm passionate about learning._
  <br>
  
 - 👀 I’m interested in ...
