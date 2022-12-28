@@ -2,21 +2,18 @@
 #### _Hello World! I'm passionate about learning._
  <br>
  
+ <div align="center">  
+ ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif) 
+</div>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💻
 - 👩‍💻 I’m looking to collaborate on ...
 
-
 <div align="center">
-  
- ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif)   
-  
-</div>
-
-<div align="center">
-  <br>
-  <br>
+<br>
+<br>
   <a href="https://github.com/KassiaES">
  
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KassiaES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,9 +25,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kassia-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Kassia-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
-  <img align="center" alt="Kassia-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-  
+  <img align="center" alt="Kassia-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
+
 </div>
 
 </div> 
