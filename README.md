@@ -1,16 +1,17 @@
-
+<div align="center">
+  
 ### _Hello World! I'm passionate about learning_
 
-![imagemgit](https://i.pinimg.com/originals/04/aa/7d/04aa7d717d5e0bc54fbab905327cac41.gif)
+ ![imagemgit](https://i.pinimg.com/originals/04/aa/7d/04aa7d717d5e0bc54fbab905327cac41.gif) 
+</div>
 
-- 👋 Hi, I’m @KassiaES
+###  👋 Hi, I’m @KassiaES  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💻
 - 👩‍💻 I’m looking to collaborate on ...
 
 
-# Kassia-ES
 
 <div align="center">
   <a href="https://github.com/KassiaES">
