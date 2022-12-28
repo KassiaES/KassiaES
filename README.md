@@ -2,8 +2,10 @@
 #### _Hello World! I'm passionate about learning._
  <br>
  
- <div align="center">  
+ <div align="center"> 
+ 
  ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif) 
+ 
 </div>
 
 - 👀 I’m interested in ...
