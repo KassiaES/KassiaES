@@ -1,4 +1,7 @@
 ###  👋 Hi, I’m @KassiaES  
+#### _Hello World! I'm passionate about learning_
+ <br>
+ 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💻
@@ -8,7 +11,7 @@
 <div align="center">
   
  ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif)   
-  ### _Hello World! I'm passionate about learning_
+  
 </div>
 
 <div align="center">
