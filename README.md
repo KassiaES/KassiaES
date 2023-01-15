@@ -4,7 +4,7 @@
  
  <div align="center"> 
  
- ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif) 
+
  
 </div>
 
