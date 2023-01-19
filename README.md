@@ -2,23 +2,12 @@
 #### _Hello World! I'm passionate about learning._
  <br>
  
- <div align="center"> 
+ <div> 
  
-
+ ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif) 
  
 </div>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💻
-- 👩‍💻 I’m looking to collaborate on ...
-
-<div align="center">
-<br>
-<br>
-  <a href="https://github.com/KassiaES">
- 
- 
 
 </div>
 
