@@ -2,12 +2,16 @@
 #### _Hello World! I'm passionate about learning._
  <br>
  
- <div> 
  
- ![imagemgit ](https://media.tenor.com/Qt8VLU8Ps84AAAAC/lotus-anime.gif) 
- 
-</div>
 
+<div align="center">
+<br>
+<br>
+  <a href="https://github.com/KassiaES">
+ 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KassiaES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassiaES&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -17,6 +21,7 @@
   <img align="center" alt="Kassia-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
 
 </div>
+
 
 </div> 
 <div align="center">
