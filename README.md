@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### � Cybersecurity Analyst | Test Automation Enthusiast
+### Cybersecurity Analyst | Test Automation Enthusiast
   
 *Passionate about cybersecurity, quality assurance, and building secure testing solutions*
 
@@ -83,7 +83,7 @@ const kassia = {
 - 🐍 **Python Automation**: Building security and quality automation tools
 - 🔐 **Vulnerability Management**: Risk assessment and remediation strategies
 - 📚 **Learning**: Advanced test automation and DevSecOps
-- 🎯 **Goal**: Creating secure, automated, and high-quality software deliveryast
+- 🎯 **Goal**: Creating secure, automated, and high-quality software delivery
   
 *Passionate about cybersecurity, quality assurance, and building secure testing solutions*
 
