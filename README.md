@@ -6,7 +6,7 @@
   
 *Passionate about cybersecurity, quality assurance, and building secure testing solutions*
 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Test+Automation+Specialist;Security+%26+Quality+Focused;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -22,30 +22,19 @@ const kassia = {
     secondaryFocus: "QA & Test Automation",
     location: "Brazil 🇧🇷",
     expertise: ["Vulnerability Management", "Cloud Security", "Secure SDLC", "Quality Automation"],
-    currentLearning: ["Python Automation", "Karate Framework", "DevSecOps"],
+    currentLearning: ["Python Automation", "integration of security tools", "DevSecOps"],
     technologies: {
         security: ["Vulnerability Assessment", "Cloud Security", "Risk Management", "SDLC Security"],
         automation: ["Python", "Karate", "Cypress", "Security Testing", "Selenium"],
         languages: ["Python", "Java", "JavaScript"],
         cloud: ["AWS Security", "Azure Security", "Cloud Compliance"],
-        tools: ["OWASP ZAP", "SonarQube", "GitHub Actions", "Git", "Selenium Grid", "SIEM Tools"]
+        tools: ["OWASP ZAP", "Security Tools", "GitHub Actions", "Git", "Selenium Grid", "SIEM Tools"]
     },
     goals: "Building secure and reliable software through comprehensive testing"
 };
 ```
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KassiaES&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Kassia's GitHub Stats" /> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassiaES&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -75,7 +64,7 @@ const kassia = {
 
 ---
 
-### � Cybersecurity Analyst | Test Automation ## 🌟 Current Focus
+### Cybersecurity Analyst | Test Automation 🌟 Current Focus
 
 - 🧪 **Quality Assurance**: Automated testing and continuous quality improvement
 - ☁️ **Cloud Security**: AWS and Azure security best practices
@@ -85,7 +74,7 @@ const kassia = {
 - 📚 **Learning**: Advanced test automation and DevSecOps
 - 🎯 **Goal**: Creating secure, automated, and high-quality software delivery
   
-*Passionate about cybersecurity, quality assurance, and building secure testing solutions*
+*Passionate about cybersecurity, automation, quality assurance, and building secure testing solutions*
 
 ---
 
