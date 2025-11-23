@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kássia!
+# 👋 Hello, I'm Kassia!
 
 <div align="center">
   
